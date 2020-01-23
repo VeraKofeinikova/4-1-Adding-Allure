@@ -1,2 +1,1 @@
-### 2.3.1-Patterns.CardWithDelivery [![Build status](https://ci.appveyor.com/api/projects/status/m01u3u8vc9lx9309?svg=true)](https://ci.appveyor.com/project/VeraKofeinikova/2-3-1-patterns-cardwithdelivery)
-
+### 4-1-Adding-Allure, на базе проекта 2.3.1-Patterns.CardWithDelivery [[![Build status](https://ci.appveyor.com/api/projects/status/4f6is316etrpovap?svg=true)](https://ci.appveyor.com/project/VeraKofeinikova/4-1-adding-allure)
